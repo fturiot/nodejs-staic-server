@@ -1,4 +1,5 @@
-# Pour installer Node.js sous Windows, il suffit de télécharger l'installeur qui est proposé sur le site de Node.js. 
+# Pour installer Node.js sous Windows, 
+il suffit de télécharger l'installeur qui est proposé sur le site de Node.js. 
 Cliquez simplement sur le lien Install.
 
 # Cloner ce repository
